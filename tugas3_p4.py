@@ -3,9 +3,9 @@
 # Kelas = 1B
 
 student_info = {
-    "Alice": {"age": 20, "major": "Computer Science"},
-    "Bob": {"age": 21, "major": "Mathematics"},
-    "Charlie": {"age": 19, "major": "Physics"}
+    "Alice": {"age": 19, "major": "Computer Science"},
+    "Bob": {"age": 20, "major": "Mathematics"},
+    "Charlie": {"age": 21, "major": "Physics"}
 }
 
 nama = input("Masukkan nama siswa: ")
