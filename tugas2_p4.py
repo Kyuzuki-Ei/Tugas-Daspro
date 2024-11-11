@@ -6,11 +6,11 @@ from collections import Counter
 
 # dictionary
 students = {
-    "Alice": "Computer Science",
-    "Bob": "Mathematics", 
-    "Charlie": "Physics",
-    "David": "Computer Science",
-    "Eva": "Mathematics"
+    "Asep": "Computer Science",
+    "Baloy": "Mathematics", 
+    "Cihuy": "Physics",
+    "Dadang": "Computer Science",
+    "Eli": "Mathematics"
 }
 
 hasil = Counter(students.values())
